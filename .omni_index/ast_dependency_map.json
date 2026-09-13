@@ -1,0 +1,4155 @@
+[
+  {
+    "file": "CLAUDE.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Dockerfile",
+    "dependencies": [
+      "tiktoken"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docker-compose.yml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".worktreeinclude",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "CHANGELOG.md",
+    "dependencies": [
+      "existing"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "CONTRIBUTING.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "supervisord.single.conf",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "uv.lock",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Makefile",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".dockerignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "mypy.ini",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "pyproject.toml",
+    "dependencies": [
+      "not"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "dev-init.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "Dockerfile.single",
+    "dependencies": [
+      "tiktoken"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "run_api.py",
+    "dependencies": [
+      "sys",
+      "pathlib",
+      "uvicorn",
+      "Path",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MAINTAINER_GUIDE.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "README.dev.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "LICENSE",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".env.example",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "CONFIGURATION.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".python-version",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "supervisord.conf",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".gitignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/SECURITY_REVIEW.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/index.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/2-CORE-CONCEPTS/notebooks-sources-notes.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/2-CORE-CONCEPTS/chat-vs-transformations.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/2-CORE-CONCEPTS/podcasts-explained.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/2-CORE-CONCEPTS/ai-context-rag.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/2-CORE-CONCEPTS/index.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/1-INSTALLATION/from-source.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/1-INSTALLATION/docker-compose.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/1-INSTALLATION/single-container.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/1-INSTALLATION/index.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/assets/hero.svg",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/6-TROUBLESHOOTING/faq.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/6-TROUBLESHOOTING/ai-chat-issues.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/6-TROUBLESHOOTING/connection-issues.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/6-TROUBLESHOOTING/index.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/6-TROUBLESHOOTING/quick-fixes.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/7-DEVELOPMENT/maintainer-guide.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/7-DEVELOPMENT/architecture.md",
+    "dependencies": [
+      "provision_langchain_model",
+      "open_notebook.ai.provision"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/7-DEVELOPMENT/quick-start.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/7-DEVELOPMENT/design-principles.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/7-DEVELOPMENT/security.md",
+    "dependencies": [
+      "pathlib",
+      "Path",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/7-DEVELOPMENT/index.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/7-DEVELOPMENT/contributing.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/7-DEVELOPMENT/code-standards.md",
+    "dependencies": [
+      "repo_create",
+      "List",
+      "BaseModel",
+      "fastapi",
+      "open_notebook.database.repository",
+      "Optional",
+      "typing",
+      "DatabaseOperationError",
+      "pydantic",
+      "loguru",
+      "open_notebook.exceptions",
+      "APIRouter",
+      "logger",
+      "HTTPException"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/7-DEVELOPMENT/development-setup.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/7-DEVELOPMENT/testing.md",
+    "dependencies": [
+      "httpx",
+      "pytest",
+      "open_notebook.domain.notebook",
+      "AsyncClient",
+      "Notebook"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/7-DEVELOPMENT/api-reference.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/5-CONFIGURATION/ai-providers.md",
+    "dependencies": [
+      "your"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/5-CONFIGURATION/environment-reference.md",
+    "dependencies": [
+      "them"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/5-CONFIGURATION/local-stt.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/5-CONFIGURATION/openai-compatible.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/5-CONFIGURATION/mcp-integration.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/5-CONFIGURATION/security.md",
+    "dependencies": [
+      "requests"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/5-CONFIGURATION/index.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/5-CONFIGURATION/ollama.md",
+    "dependencies": [
+      "os",
+      "requests"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/5-CONFIGURATION/advanced.md",
+    "dependencies": [
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/5-CONFIGURATION/local-tts.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/5-CONFIGURATION/reverse-proxy.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/5-CONFIGURATION/database.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/0-START-HERE/quick-start-openai.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/0-START-HERE/quick-start-local.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/0-START-HERE/index.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/0-START-HERE/quick-start-cloud.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/4-AI-PROVIDERS/index.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/3-USER-GUIDE/transformations.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/3-USER-GUIDE/chat-effectively.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/3-USER-GUIDE/api-configuration.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/3-USER-GUIDE/search.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/3-USER-GUIDE/working-with-notes.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/3-USER-GUIDE/interface-overview.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/3-USER-GUIDE/citations.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/3-USER-GUIDE/index.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/3-USER-GUIDE/creating-podcasts.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/3-USER-GUIDE/adding-sources.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/docker-compose-speaches.yml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/docker-compose-full-local.yml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/docker-compose-ollama.yml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/docker-compose-dev.yml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/docker-compose-single.yml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/next.config.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/eslint.config.mjs",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/components.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/package.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/postcss.config.mjs",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/tailwind.config.ts",
+    "dependencies": [
+      "typography",
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/vitest.config.ts",
+    "dependencies": [
+      "react",
+      "path"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/start-server.js",
+    "dependencies": [
+      "./.next/standalone/server.js"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/package-lock.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/tsconfig.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/.gitignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/public/vercel.svg",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/public/logo.svg",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/public/next.svg",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/public/window.svg",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/public/file.svg",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/public/globe.svg",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/CLAUDE.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/proxy.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/test/setup.ts",
+    "dependencies": [
+      "@testing-library/jest-dom"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/test/jest-dom.d.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/layout.tsx",
+    "dependencies": [
+      "./globals.css",
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/page.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/globals.css",
+    "dependencies": [
+      "tailwindcss",
+      "tw-animate-css"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/layout.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/page.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/search/page.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/podcasts/page.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/settings/page.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/settings/components/SettingsForm.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/settings/api-keys/page.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/sources/page.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/sources/[id]/page.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/notebooks/page.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/notebooks/components/ChatColumn.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/notebooks/components/NotebookDeleteDialog.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/notebooks/components/NotesColumn.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/notebooks/components/NotebookHeader.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/notebooks/components/NotebookList.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/notebooks/components/NotebookCard.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/notebooks/components/SourcesColumn.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/notebooks/components/ChatColumn.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/notebooks/components/NoteEditorDialog.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/notebooks/[id]/page.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/transformations/page.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/transformations/components/TransformationEditorDialog.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/transformations/components/TransformationPlayground.tsx",
+    "dependencies": [
+      "remarkGfm",
+      "ReactMarkdown"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/transformations/components/DefaultPromptEditor.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/transformations/components/TransformationCard.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/transformations/components/TransformationsList.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/advanced/page.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/advanced/components/SystemInfo.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(dashboard)/advanced/components/RebuildEmbeddings.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/config/route.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/app/(auth)/login/page.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/search/SaveToNotebooksDialog.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/search/StreamingResponse.tsx",
+    "dependencies": [
+      "remarkGfm",
+      "ReactMarkdown"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/search/AdvancedModelsDialog.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/errors/ConnectionErrorOverlay.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/common/CommandPalette.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/common/ConfirmDialog.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/common/ModelSelector.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/common/LanguageToggle.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/common/LanguageLoadingOverlay.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/common/ThemeToggle.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/common/ContextIndicator.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/common/LoadingSpinner.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/common/ErrorBoundary.tsx",
+    "dependencies": [
+      "React"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/common/ConnectionGuard.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/common/ContextToggle.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/common/EmptyState.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/common/ConfirmDialog.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/common/InlineEdit.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/podcasts/GeneratePodcastDialog.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/podcasts/SpeakerProfilesPanel.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/podcasts/TemplatesTab.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/podcasts/EpisodeCard.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/podcasts/EpisodeProfilesPanel.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/podcasts/EpisodesTab.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/podcasts/forms/EpisodeProfileFormDialog.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/podcasts/forms/SpeakerProfileFormDialog.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/CLAUDE.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/popover.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/collapsible.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/textarea.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/progress.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/select.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/input.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/form-section.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/checkbox.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/badge.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/command.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/accordion.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/tooltip.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/wizard-container.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/separator.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/sonner.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/radio-group.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/tabs.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/markdown-editor.tsx",
+    "dependencies": [
+      "dynamic"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/card.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/checkbox-list.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/label.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/button.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/scroll-area.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/alert-dialog.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/dialog.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/dropdown-menu.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/alert.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/settings/index.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/settings/ModelTestResultDialog.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/settings/EmbeddingModelChangeDialog.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/settings/MigrationBanner.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/sources/AddExistingSourceDialog.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/sources/index.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/sources/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/sources/AddSourceButton.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/sources/SourceCard.tsx",
+    "dependencies": [
+      "type",
+      "React"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/sources/AddSourceDialog.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/sources/steps/SourceTypeStep.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/sources/steps/NotebooksStep.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/sources/steps/ProcessingStep.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/notebooks/CreateNotebookDialog.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/notebooks/CollapsibleColumn.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/auth/LoginForm.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/layout/AppSidebar.tsx",
+    "dependencies": [
+      "Link",
+      "Image",
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/layout/AppShell.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/layout/AppSidebar.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/layout/SetupBanner.tsx",
+    "dependencies": [
+      "Link"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/source/ModelSelector.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/source/SessionManager.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/source/SourceDetailContent.tsx",
+    "dependencies": [
+      "remarkGfm",
+      "ReactMarkdown"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/source/MessageActions.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/source/SourceInsightDialog.tsx",
+    "dependencies": [
+      "remarkGfm",
+      "ReactMarkdown"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/source/NotebookAssociations.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/source/ChatPanel.tsx",
+    "dependencies": [
+      "remarkGfm",
+      "ReactMarkdown"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/source/SourceDialog.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/providers/ThemeProvider.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/providers/I18nProvider.tsx",
+    "dependencies": [
+      "React",
+      "@/lib/i18n"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/providers/ModalProvider.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/providers/QueryProvider.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/i18n.ts",
+    "dependencies": [
+      "LanguageDetector",
+      "i18n"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/i18n-events.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/utils.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/config.test.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/theme-script.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/config.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/use-translation.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/use-auth.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/CLAUDE.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/use-insights.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/useNotebookChat.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/use-create-dialogs.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/use-navigation.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/use-sources.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/use-media-query.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/use-translation.test.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/use-models.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/use-modal-manager.test.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/use-podcasts.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/use-version-check.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/use-modal-manager.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/use-transformations.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/use-notes.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/use-credentials.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/use-toast.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/use-ask.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/use-search.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/useSourceChat.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/use-notebooks.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/hooks/use-settings.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/types/models.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/types/search.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/types/podcasts.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/types/auth.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/types/common.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/types/transformations.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/types/config.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/types/api.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/api/models.ts",
+    "dependencies": [
+      "apiClient"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/api/CLAUDE.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/api/credentials.ts",
+    "dependencies": [
+      "apiClient"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/api/sources.ts",
+    "dependencies": [
+      "apiClient",
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/api/notes.ts",
+    "dependencies": [
+      "apiClient"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/api/client.ts",
+    "dependencies": [
+      "axios"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/api/embedding.ts",
+    "dependencies": [
+      "apiClient"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/api/search.ts",
+    "dependencies": [
+      "apiClient"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/api/chat.ts",
+    "dependencies": [
+      "apiClient"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/api/settings.ts",
+    "dependencies": [
+      "apiClient"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/api/source-chat.ts",
+    "dependencies": [
+      "apiClient"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/api/query-client.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/api/insights.ts",
+    "dependencies": [
+      "apiClient"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/api/podcasts.ts",
+    "dependencies": [
+      "apiClient"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/api/transformations.ts",
+    "dependencies": [
+      "apiClient"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/api/notebooks.ts",
+    "dependencies": [
+      "apiClient"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/locales/CLAUDE.md",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/locales/index.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/locales/index.test.ts",
+    "dependencies": [
+      "fs",
+      "path"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/locales/pt-BR/index.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/locales/bn-IN/index.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/locales/it-IT/index.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/locales/ru-RU/index.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/locales/en-US/index.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/locales/fr-FR/index.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/locales/zh-CN/index.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/locales/zh-TW/index.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/locales/ja-JP/index.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/stores/CLAUDE.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/stores/navigation-store.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/stores/sidebar-store.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/stores/theme-store.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/stores/notebook-columns-store.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/stores/auth-store.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/utils/date-locale.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/utils/source-references.tsx",
+    "dependencies": [
+      "React"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/lib/utils/error-handler.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "scripts/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "scripts/wait-for-api.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "scripts/export_docs.py",
+    "dependencies": [
+      "List",
+      "logging",
+      "pathlib",
+      "typing",
+      "Path"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "commands/example_commands.py",
+    "dependencies": [
+      "List",
+      "BaseModel",
+      "typing",
+      "pydantic",
+      "loguru",
+      "surreal_commands",
+      "command",
+      "logger",
+      "asyncio",
+      "time"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "commands/CLAUDE.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "commands/__init__.py",
+    "dependencies": [
+      ".source_commands",
+      "process_source_command",
+      ".podcast_commands",
+      ".embedding_commands",
+      "generate_podcast_command",
+      "analyze_data_command",
+      ".example_commands"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "commands/source_commands.py",
+    "dependencies": [
+      "graph",
+      "loguru",
+      "open_notebook.domain.transformation",
+      "open_notebook.graphs.source",
+      "BaseModel",
+      "open_notebook.database.repository",
+      "ConfigurationError",
+      "Any",
+      "CommandInput",
+      "ensure_record_id",
+      "pydantic",
+      "open_notebook.exceptions",
+      "graphs",
+      "open_notebook.domain.notebook",
+      "open_notebook.graphs.transformation",
+      "surreal_commands",
+      "logger",
+      "Transformation",
+      "Source",
+      "typing",
+      "source_graph",
+      "time"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "commands/podcast_commands.py",
+    "dependencies": [
+      "loguru",
+      "BaseModel",
+      "open_notebook.database.repository",
+      "Optional",
+      "pathlib",
+      "CommandInput",
+      "ensure_record_id",
+      "pydantic",
+      "open_notebook.podcasts.models",
+      "DATA_FOLDER",
+      "configure",
+      "podcast_creator",
+      "Path",
+      "surreal_commands",
+      "logger",
+      "open_notebook.config",
+      "typing",
+      "uuid",
+      "time"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "commands/embedding_commands.py",
+    "dependencies": [
+      "loguru",
+      "open_notebook.ai.models",
+      "Note",
+      "BaseModel",
+      "open_notebook.database.repository",
+      "ConfigurationError",
+      "CommandInput",
+      "ensure_record_id",
+      "pydantic",
+      "open_notebook.exceptions",
+      "model_manager",
+      "generate_embedding",
+      "open_notebook.domain.notebook",
+      "surreal_commands",
+      "ContentType",
+      "logger",
+      "Dict",
+      "open_notebook.utils.chunking",
+      "typing",
+      "open_notebook.utils.embedding",
+      "time"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/CLAUDE.md",
+    "dependencies": [
+      "services"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/embedding_service.py",
+    "dependencies": [
+      "api.client",
+      "Any",
+      "typing",
+      "loguru",
+      "api_client",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/insights_service.py",
+    "dependencies": [
+      "List",
+      "Note",
+      "open_notebook.domain.notebook",
+      "api.client",
+      "typing",
+      "loguru",
+      "api_client",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/sources_service.py",
+    "dependencies": [
+      "Asset",
+      "Dict",
+      "open_notebook.domain.notebook",
+      "api.client",
+      "dataclasses",
+      "typing",
+      "loguru",
+      "api_client",
+      "dataclass",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/episode_profiles_service.py",
+    "dependencies": [
+      "List",
+      "api.client",
+      "EpisodeProfile",
+      "typing",
+      "loguru",
+      "open_notebook.podcasts.models",
+      "api_client",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/podcast_service.py",
+    "dependencies": [
+      "fastapi",
+      "BaseModel",
+      "open_notebook.domain.notebook",
+      "Any",
+      "get_command_status",
+      "EpisodeProfile",
+      "typing",
+      "pydantic",
+      "loguru",
+      "open_notebook.podcasts.models",
+      "surreal_commands",
+      "commands.podcast_commands",
+      "podcast",
+      "Notebook",
+      "logger",
+      "HTTPException"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/models_service.py",
+    "dependencies": [
+      "open_notebook.ai.models",
+      "List",
+      "api.client",
+      "DefaultModels",
+      "typing",
+      "loguru",
+      "api_client",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/auth.py",
+    "dependencies": [
+      "fastapi",
+      "HTTPAuthorizationCredentials",
+      "get_secret_from_env",
+      "Depends",
+      "Optional",
+      "BaseHTTPMiddleware",
+      "starlette.responses",
+      "typing",
+      "loguru",
+      "JSONResponse",
+      "starlette.middleware.base",
+      "open_notebook.utils.encryption",
+      "fastapi.security",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/command_service.py",
+    "dependencies": [
+      "Any",
+      "get_command_status",
+      "typing",
+      "loguru",
+      "surreal_commands",
+      "command",
+      "commands.podcast_commands",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/podcast_api_service.py",
+    "dependencies": [
+      "api.client",
+      "Any",
+      "typing",
+      "loguru",
+      "api_client",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/models.py",
+    "dependencies": [
+      "typing",
+      "pydantic",
+      "Any",
+      "BaseModel"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/transformations_service.py",
+    "dependencies": [
+      "Transformation",
+      "api.client",
+      "Any",
+      "typing",
+      "loguru",
+      "open_notebook.domain.transformation",
+      "datetime",
+      "api_client",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/main.py",
+    "dependencies": [
+      "starlette.exceptions",
+      "CORSMiddleware",
+      "loguru",
+      "open_notebook.database.async_migrate",
+      "asynccontextmanager",
+      "JSONResponse",
+      "PasswordAuthMiddleware",
+      "dotenv",
+      "HTTPException",
+      "api.routers",
+      "migrate_podcast_profiles",
+      "AsyncMigrationManager",
+      "fastapi.middleware.cors",
+      "contextlib",
+      "fastapi.responses",
+      "open_notebook.exceptions",
+      "fastapi",
+      "FastAPI",
+      "open_notebook.podcasts.migration",
+      "api.auth",
+      "os",
+      "open_notebook.utils.encryption",
+      "logger",
+      "load_dotenv",
+      "get_secret_from_env",
+      "commands"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/search_service.py",
+    "dependencies": [
+      "api.client",
+      "Any",
+      "typing",
+      "loguru",
+      "api_client",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/client.py",
+    "dependencies": [
+      "httpx",
+      "Any",
+      "typing",
+      "loguru",
+      "os",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/chat_service.py",
+    "dependencies": [
+      "httpx",
+      "Any",
+      "typing",
+      "loguru",
+      "os",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/settings_service.py",
+    "dependencies": [
+      "ContentSettings",
+      "api.client",
+      "open_notebook.domain.content_settings",
+      "loguru",
+      "api_client",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/credentials_service.py",
+    "dependencies": [
+      "SecretStr",
+      "urllib.parse",
+      "open_notebook.domain.credential",
+      "open_notebook.domain.provider_config",
+      "socket",
+      "CredentialResponse",
+      "urlparse",
+      "loguru",
+      "open_notebook.ai.connection_tester",
+      "httpx",
+      "open_notebook.ai.models",
+      "open_notebook.database.repository",
+      "pydantic",
+      "ipaddress",
+      "ProviderConfig",
+      "Model",
+      "AIFactory",
+      "esperanto.factory",
+      "TEST_MODELS",
+      "os",
+      "open_notebook.utils.encryption",
+      "logger",
+      "Dict",
+      "get_secret_from_env",
+      "api.models",
+      "typing",
+      "repo_query",
+      "Credential"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/context_service.py",
+    "dependencies": [
+      "api.client",
+      "Any",
+      "typing",
+      "loguru",
+      "api_client",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/notes_service.py",
+    "dependencies": [
+      "List",
+      "Note",
+      "open_notebook.domain.notebook",
+      "api.client",
+      "typing",
+      "loguru",
+      "api_client",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/notebook_service.py",
+    "dependencies": [
+      "List",
+      "open_notebook.domain.notebook",
+      "api.client",
+      "typing",
+      "loguru",
+      "api_client",
+      "Notebook",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/transformations.py",
+    "dependencies": [
+      "open_notebook.ai.models",
+      "InvalidInputError",
+      "List",
+      "fastapi",
+      "Model",
+      "open_notebook.graphs.transformation",
+      "DefaultPrompts",
+      "graph",
+      "api.models",
+      "typing",
+      "loguru",
+      "open_notebook.domain.transformation",
+      "open_notebook.exceptions",
+      "APIRouter",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/context.py",
+    "dependencies": [
+      "InvalidInputError",
+      "Note",
+      "fastapi",
+      "open_notebook.utils",
+      "token_count",
+      "open_notebook.domain.notebook",
+      "api.models",
+      "loguru",
+      "open_notebook.exceptions",
+      "ContextRequest",
+      "APIRouter",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/chat.py",
+    "dependencies": [
+      "langchain_core.runnables",
+      "graph",
+      "HumanMessage",
+      "loguru",
+      "APIRouter",
+      "open_notebook.utils",
+      "langchain_core.messages",
+      "open_notebook.graphs.chat",
+      "BaseModel",
+      "open_notebook.database.repository",
+      "open_notebook.utils.graph_utils",
+      "Any",
+      "traceback",
+      "pydantic",
+      "ensure_record_id",
+      "open_notebook.exceptions",
+      "ChatSession",
+      "fastapi",
+      "token_count",
+      "open_notebook.domain.notebook",
+      "RunnableConfig",
+      "get_session_message_count",
+      "logger",
+      "typing",
+      "asyncio"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/speaker_profiles.py",
+    "dependencies": [
+      "fastapi",
+      "BaseModel",
+      "Any",
+      "typing",
+      "pydantic",
+      "loguru",
+      "open_notebook.podcasts.models",
+      "APIRouter",
+      "logger",
+      "SpeakerProfile"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/insights.py",
+    "dependencies": [
+      "InvalidInputError",
+      "fastapi",
+      "open_notebook.domain.notebook",
+      "api.models",
+      "NoteResponse",
+      "loguru",
+      "open_notebook.exceptions",
+      "APIRouter",
+      "SourceInsight",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/settings.py",
+    "dependencies": [
+      "InvalidInputError",
+      "ContentSettings",
+      "fastapi",
+      "api.models",
+      "open_notebook.domain.content_settings",
+      "typing",
+      "Literal",
+      "loguru",
+      "open_notebook.exceptions",
+      "SettingsResponse",
+      "APIRouter",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/auth.py",
+    "dependencies": [
+      "get_secret_from_env",
+      "APIRouter",
+      "open_notebook.utils.encryption",
+      "fastapi"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/languages.py",
+    "dependencies": [
+      "Locale",
+      "get_global",
+      "babel.core",
+      "List",
+      "BaseModel",
+      "babel",
+      "fastapi",
+      "typing",
+      "pydantic",
+      "pycountry",
+      "APIRouter"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/commands.py",
+    "dependencies": [
+      "registry",
+      "fastapi",
+      "BaseModel",
+      "Any",
+      "CommandService",
+      "api.command_service",
+      "typing",
+      "pydantic",
+      "loguru",
+      "surreal_commands",
+      "APIRouter",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/sources.py",
+    "dependencies": [
+      "UPLOADS_FOLDER",
+      "Asset",
+      "CommandService",
+      "loguru",
+      "open_notebook.domain.transformation",
+      "SourceProcessingInput",
+      "open_notebook.database.repository",
+      "Any",
+      "execute_command_sync",
+      "pathlib",
+      "ensure_record_id",
+      "fastapi.responses",
+      "open_notebook.exceptions",
+      "fastapi",
+      "open_notebook.domain.notebook",
+      "FileResponse",
+      "api.command_service",
+      "Path",
+      "os",
+      "surreal_commands",
+      "logger",
+      "InvalidInputError",
+      "Transformation",
+      "open_notebook.config",
+      "api.models",
+      "typing",
+      "json",
+      "commands.source_commands",
+      "asyncio"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/source_chat.py",
+    "dependencies": [
+      "StreamingResponse",
+      "open_notebook.graphs.source_chat",
+      "langchain_core.runnables",
+      "HumanMessage",
+      "loguru",
+      "open_notebook.utils.error_classifier",
+      "APIRouter",
+      "langchain_core.messages",
+      "BaseModel",
+      "open_notebook.database.repository",
+      "open_notebook.utils.graph_utils",
+      "pydantic",
+      "ensure_record_id",
+      "fastapi.responses",
+      "open_notebook.exceptions",
+      "ChatSession",
+      "classify_error",
+      "fastapi",
+      "open_notebook.domain.notebook",
+      "AsyncGenerator",
+      "source_chat_graph",
+      "RunnableConfig",
+      "get_session_message_count",
+      "logger",
+      "typing",
+      "json",
+      "asyncio"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/credentials.py",
+    "dependencies": [
+      "SecretStr",
+      "List",
+      "fastapi",
+      "api.credentials_service",
+      "open_notebook.database.repository",
+      "open_notebook.domain.credential",
+      "api.models",
+      "typing",
+      "pydantic",
+      "ensure_record_id",
+      "loguru",
+      "APIRouter",
+      "logger",
+      "Credential"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/notes.py",
+    "dependencies": [
+      "InvalidInputError",
+      "List",
+      "Note",
+      "fastapi",
+      "NoteCreate",
+      "open_notebook.domain.notebook",
+      "graph",
+      "api.models",
+      "typing",
+      "loguru",
+      "open_notebook.graphs.prompt",
+      "open_notebook.exceptions",
+      "APIRouter",
+      "Notebook",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/embedding_rebuild.py",
+    "dependencies": [
+      "fastapi",
+      "open_notebook.database.repository",
+      "repo_query",
+      "CommandService",
+      "get_command_status",
+      "api.models",
+      "api.command_service",
+      "loguru",
+      "surreal_commands",
+      "APIRouter",
+      "logger",
+      "commands.embedding_commands"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/models.py",
+    "dependencies": [
+      "open_notebook.domain.credential",
+      "DefaultModels",
+      "loguru",
+      "test_individual_model",
+      "APIRouter",
+      "provision_provider_keys",
+      "open_notebook.ai.connection_tester",
+      "open_notebook.ai.models",
+      "BaseModel",
+      "open_notebook.database.repository",
+      "traceback",
+      "pydantic",
+      "open_notebook.ai.key_provider",
+      "open_notebook.exceptions",
+      "open_notebook.ai.model_discovery",
+      "fastapi",
+      "AIFactory",
+      "os",
+      "esperanto",
+      "logger",
+      "InvalidInputError",
+      "Dict",
+      "api.models",
+      "typing",
+      "repo_query",
+      "Credential"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/embedding.py",
+    "dependencies": [
+      "open_notebook.ai.models",
+      "Note",
+      "fastapi",
+      "open_notebook.domain.notebook",
+      "CommandService",
+      "api.models",
+      "api.command_service",
+      "loguru",
+      "model_manager",
+      "EmbedRequest",
+      "APIRouter",
+      "logger",
+      "commands.embedding_commands"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/episode_profiles.py",
+    "dependencies": [
+      "List",
+      "BaseModel",
+      "fastapi",
+      "EpisodeProfile",
+      "typing",
+      "pydantic",
+      "loguru",
+      "open_notebook.podcasts.models",
+      "APIRouter",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/search.py",
+    "dependencies": [
+      "StreamingResponse",
+      "graph",
+      "loguru",
+      "open_notebook.utils.error_classifier",
+      "APIRouter",
+      "text_search",
+      "open_notebook.ai.models",
+      "open_notebook.graphs.ask",
+      "DatabaseOperationError",
+      "fastapi.responses",
+      "open_notebook.exceptions",
+      "classify_error",
+      "fastapi",
+      "open_notebook.domain.notebook",
+      "AsyncGenerator",
+      "Model",
+      "logger",
+      "AskRequest",
+      "api.models",
+      "typing",
+      "json"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/config.py",
+    "dependencies": [
+      "tomllib",
+      "fastapi",
+      "open_notebook.database.repository",
+      "repo_query",
+      "open_notebook.utils.version_utils",
+      "Optional",
+      "pathlib",
+      "typing",
+      "loguru",
+      "Path",
+      "os",
+      "APIRouter",
+      "logger",
+      "asyncio",
+      "time"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/notebooks.py",
+    "dependencies": [
+      "InvalidInputError",
+      "List",
+      "fastapi",
+      "open_notebook.database.repository",
+      "open_notebook.domain.notebook",
+      "api.models",
+      "typing",
+      "ensure_record_id",
+      "loguru",
+      "open_notebook.exceptions",
+      "APIRouter",
+      "Notebook",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "api/routers/podcasts.py",
+    "dependencies": [
+      "job_status",
+      "List",
+      "BaseModel",
+      "urllib.parse",
+      "fastapi",
+      "api.podcast_service",
+      "FileResponse",
+      "pathlib",
+      "typing",
+      "pydantic",
+      "loguru",
+      "Path",
+      "fastapi.responses",
+      "APIRouter",
+      "unquote",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/conftest.py",
+    "dependencies": [
+      "sys",
+      "load_dotenv",
+      "pathlib",
+      "from",
+      "Path",
+      "os",
+      "dotenv"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_graphs.py",
+    "dependencies": [
+      "pytest",
+      "unittest.mock",
+      "open_notebook.graphs.source",
+      "Transformation",
+      "open_notebook.domain.notebook",
+      "MagicMock",
+      "Source",
+      "open_notebook.graphs.transformation",
+      "get_current_timestamp",
+      "open_notebook.graphs.tools",
+      "open_notebook.graphs.prompt",
+      "open_notebook.domain.transformation",
+      "datetime",
+      "save_source",
+      "PatternChainState",
+      "AsyncMock"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_sources_api.py",
+    "dependencies": [
+      "UPLOADS_FOLDER",
+      "pytest",
+      "unittest.mock",
+      "api.main",
+      "open_notebook.config",
+      "app",
+      "fastapi.testclient",
+      "Source",
+      "open_notebook.domain.notebook",
+      "TestClient",
+      "os",
+      "AsyncMock"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_embedding.py",
+    "dependencies": [
+      "pytest",
+      "unittest.mock",
+      "open_notebook.utils.chunking",
+      "ExternalServiceError",
+      "EMBEDDING_MAX_RETRIES",
+      "EMBEDDING_BATCH_SIZE",
+      "open_notebook.exceptions",
+      "open_notebook.utils.error_classifier",
+      "ContentType",
+      "open_notebook.utils.embedding",
+      "AsyncMock",
+      "numpy",
+      "classify_error"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_models_api.py",
+    "dependencies": [
+      "open_notebook.ai.models",
+      "pytest",
+      "unittest.mock",
+      "api.main",
+      "app",
+      "Model",
+      "fastapi.testclient",
+      "TestClient",
+      "AsyncMock"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_chunking.py",
+    "dependencies": [
+      "pytest",
+      "open_notebook.utils.chunking"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_notes_api.py",
+    "dependencies": [
+      "pytest",
+      "unittest.mock",
+      "api.main",
+      "app",
+      "fastapi.testclient",
+      "TestClient",
+      "AsyncMock"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_utils.py",
+    "dependencies": [
+      "pytest",
+      "patch",
+      "unittest.mock",
+      "open_notebook.utils.version_utils",
+      "importlib.metadata",
+      "urllib.error",
+      "ContextBuilder",
+      "PackageNotFoundError",
+      "open_notebook.utils",
+      "get_version_from_github",
+      "open_notebook.utils.context_builder"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_credentials_api.py",
+    "dependencies": [
+      "pytest",
+      "unittest.mock",
+      "api.main",
+      "app",
+      "fastapi.testclient",
+      "TestClient",
+      "AsyncMock"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_podcast_path.py",
+    "dependencies": [
+      "PurePosixPath",
+      "pathlib",
+      "uuid",
+      "commands.podcast_commands",
+      "build_episode_output_dir"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_url_validation.py",
+    "dependencies": [
+      "pytest",
+      "validate_url",
+      "api.credentials_service"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_domain.py",
+    "dependencies": [
+      "Asset",
+      "open_notebook.domain.content_settings",
+      "tempfile",
+      "open_notebook.domain.transformation",
+      "open_notebook.domain.base",
+      "AsyncMock",
+      "open_notebook.ai.models",
+      "unittest.mock",
+      "pathlib",
+      "pydantic",
+      "open_notebook.podcasts.models",
+      "RecordModel",
+      "open_notebook.exceptions",
+      "ContentSettings",
+      "ValidationError",
+      "open_notebook.domain.notebook",
+      "EpisodeProfile",
+      "Path",
+      "pytest",
+      "InvalidInputError",
+      "Transformation",
+      "ModelManager"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "prompts/CLAUDE.md",
+    "dependencies": [
+      "PydanticOutputParser",
+      "BaseModel",
+      "langchain_core.output_parsers.pydantic",
+      "pydantic",
+      "ai_prompter",
+      "Prompter"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "prompts/ask/query_process.jinja",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "prompts/ask/entry.jinja",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "prompts/ask/final_answer.jinja",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "prompts/podcast/outline.jinja",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "prompts/podcast/transcript.jinja",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "prompts/chat/system.jinja",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "prompts/source_chat/system.jinja",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/CLAUDE.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/exceptions.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/config.py",
+    "dependencies": [
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/podcasts/CLAUDE.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/podcasts/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/podcasts/migration.py",
+    "dependencies": [
+      "open_notebook.ai.models",
+      "open_notebook.database.repository",
+      "open_notebook.domain.credential",
+      "Model",
+      "ensure_record_id",
+      "loguru",
+      "repo_query",
+      "repo_update",
+      "logger",
+      "Credential"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/podcasts/models.py",
+    "dependencies": [
+      "open_notebook.ai.models",
+      "ConfigDict",
+      "open_notebook.database.repository",
+      "Model",
+      "Any",
+      "get_command_status",
+      "RecordID",
+      "typing",
+      "surrealdb",
+      "pydantic",
+      "ensure_record_id",
+      "loguru",
+      "open_notebook.ai.key_provider",
+      "surreal_commands",
+      "open_notebook.domain.base",
+      "ObjectModel",
+      "provision_provider_keys",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/domain/CLAUDE.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/domain/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/domain/transformation.py",
+    "dependencies": [
+      "typing",
+      "Field",
+      "pydantic",
+      "ClassVar",
+      "open_notebook.domain.base",
+      "ObjectModel"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/domain/credential.py",
+    "dependencies": [
+      "SecretStr",
+      "open_notebook.ai.models",
+      "open_notebook.database.repository",
+      "Model",
+      "Any",
+      "typing",
+      "decrypt_value",
+      "pydantic",
+      "ensure_record_id",
+      "loguru",
+      "datetime",
+      "open_notebook.domain.base",
+      "ObjectModel",
+      "open_notebook.utils.encryption",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/domain/content_settings.py",
+    "dependencies": [
+      "typing",
+      "Field",
+      "pydantic",
+      "RecordModel",
+      "ClassVar",
+      "open_notebook.domain.base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/domain/base.py",
+    "dependencies": [
+      "datetime",
+      "open_notebook.database.repository",
+      "Any",
+      "typing",
+      "pydantic",
+      "loguru",
+      "re",
+      "open_notebook.exceptions",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/domain/provider_config.py",
+    "dependencies": [
+      "datetime",
+      "open_notebook.database.repository",
+      "typing",
+      "Field",
+      "decrypt_value",
+      "pydantic",
+      "ensure_record_id",
+      "RecordModel",
+      "ClassVar",
+      "open_notebook.domain.base",
+      "open_notebook.utils.encryption"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/domain/notebook.py",
+    "dependencies": [
+      "get_command_status",
+      "loguru",
+      "open_notebook.domain.base",
+      "BaseModel",
+      "open_notebook.database.repository",
+      "Any",
+      "pathlib",
+      "DatabaseOperationError",
+      "pydantic",
+      "ensure_record_id",
+      "open_notebook.exceptions",
+      "ObjectModel",
+      "submit_command",
+      "generate_embedding",
+      "surrealdb",
+      "Path",
+      "os",
+      "surreal_commands",
+      "logger",
+      "RecordID",
+      "typing",
+      "open_notebook.utils.embedding",
+      "asyncio"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/ai/CLAUDE.md",
+    "dependencies": [
+      "open_notebook.ai.models",
+      "model_manager",
+      "provision_langchain_model",
+      "open_notebook.ai.provision"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/ai/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/ai/model_discovery.py",
+    "dependencies": [
+      "httpx",
+      "open_notebook.ai.models",
+      "Dict",
+      "open_notebook.database.repository",
+      "Credential",
+      "open_notebook.domain.credential",
+      "Model",
+      "dataclasses",
+      "typing",
+      "loguru",
+      "os",
+      "dataclass",
+      "repo_query",
+      "logger",
+      "asyncio"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/ai/connection_tester.py",
+    "dependencies": [
+      "httpx",
+      "open_notebook.ai.models",
+      "struct",
+      "List",
+      "open_notebook.domain.credential",
+      "AIFactory",
+      "esperanto.factory",
+      "ModelManager",
+      "io",
+      "typing",
+      "loguru",
+      "os",
+      "logger",
+      "Credential"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/ai/key_provider.py",
+    "dependencies": [
+      "open_notebook.domain.credential",
+      "Optional",
+      "typing",
+      "loguru",
+      "open_notebook.ai.key_provider",
+      "os",
+      "provision_provider_keys",
+      "logger",
+      "Credential"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/ai/models.py",
+    "dependencies": [
+      "open_notebook.database.repository",
+      "ConfigurationError",
+      "open_notebook.domain.credential",
+      "Any",
+      "open_notebook.exceptions",
+      "typing",
+      "ensure_record_id",
+      "loguru",
+      "open_notebook.domain.base",
+      "open_notebook.ai.key_provider",
+      "esperanto",
+      "ObjectModel",
+      "provision_provider_keys",
+      "logger",
+      "Credential"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/ai/provision.py",
+    "dependencies": [
+      "open_notebook.ai.models",
+      "BaseChatModel",
+      "ConfigurationError",
+      "token_count",
+      "open_notebook.exceptions",
+      "langchain_core.language_models.chat_models",
+      "loguru",
+      "LanguageModel",
+      "esperanto",
+      "model_manager",
+      "open_notebook.utils",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/graphs/CLAUDE.md",
+    "dependencies": [
+      "open_notebook.utils.error_classifier",
+      "classify_error"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/graphs/transformation.py",
+    "dependencies": [
+      "langchain_core.runnables",
+      "OpenNotebookError",
+      "HumanMessage",
+      "open_notebook.domain.transformation",
+      "extract_text_content",
+      "ai_prompter",
+      "open_notebook.utils.error_classifier",
+      "TypedDict",
+      "open_notebook.utils",
+      "langgraph.graph",
+      "langchain_core.messages",
+      "provision_langchain_model",
+      "typing_extensions",
+      "open_notebook.utils.text_utils",
+      "open_notebook.exceptions",
+      "classify_error",
+      "open_notebook.domain.notebook",
+      "open_notebook.ai.provision",
+      "RunnableConfig",
+      "Prompter",
+      "Source",
+      "clean_thinking_content",
+      "DefaultPrompts",
+      "END"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/graphs/chat.py",
+    "dependencies": [
+      "SqliteSaver",
+      "langchain_core.runnables",
+      "OpenNotebookError",
+      "extract_text_content",
+      "ai_prompter",
+      "open_notebook.utils.error_classifier",
+      "TypedDict",
+      "open_notebook.utils",
+      "langgraph.graph",
+      "langchain_core.messages",
+      "provision_langchain_model",
+      "END",
+      "langgraph.graph.message",
+      "langgraph.checkpoint.sqlite",
+      "concurrent.futures",
+      "typing_extensions",
+      "open_notebook.utils.text_utils",
+      "open_notebook.exceptions",
+      "sqlite3",
+      "classify_error",
+      "LANGGRAPH_CHECKPOINT_FILE",
+      "open_notebook.domain.notebook",
+      "open_notebook.ai.provision",
+      "RunnableConfig",
+      "Prompter",
+      "Annotated",
+      "add_messages",
+      "open_notebook.config",
+      "AIMessage",
+      "clean_thinking_content",
+      "typing",
+      "Notebook",
+      "asyncio"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/graphs/ask.py",
+    "dependencies": [
+      "langchain_core.runnables",
+      "OpenNotebookError",
+      "extract_text_content",
+      "ai_prompter",
+      "open_notebook.utils.error_classifier",
+      "TypedDict",
+      "open_notebook.utils",
+      "langgraph.graph",
+      "operator",
+      "provision_langchain_model",
+      "BaseModel",
+      "typing_extensions",
+      "pydantic",
+      "open_notebook.utils.text_utils",
+      "Send",
+      "open_notebook.exceptions",
+      "classify_error",
+      "PydanticOutputParser",
+      "vector_search",
+      "open_notebook.domain.notebook",
+      "open_notebook.ai.provision",
+      "RunnableConfig",
+      "Prompter",
+      "Annotated",
+      "langgraph.types",
+      "langchain_core.output_parsers.pydantic",
+      "clean_thinking_content",
+      "typing",
+      "END"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/graphs/tools.py",
+    "dependencies": [
+      "langchain.tools",
+      "tool",
+      "datetime"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/graphs/prompt.py",
+    "dependencies": [
+      "langchain_core.messages",
+      "provision_langchain_model",
+      "clean_thinking_content",
+      "Any",
+      "langchain_core.runnables",
+      "typing_extensions",
+      "open_notebook.ai.provision",
+      "typing",
+      "HumanMessage",
+      "RunnableConfig",
+      "open_notebook.utils.text_utils",
+      "ai_prompter",
+      "Prompter",
+      "TypedDict",
+      "END",
+      "langgraph.graph"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/graphs/source_chat.py",
+    "dependencies": [
+      "SqliteSaver",
+      "langchain_core.runnables",
+      "OpenNotebookError",
+      "extract_text_content",
+      "ai_prompter",
+      "open_notebook.utils.error_classifier",
+      "TypedDict",
+      "open_notebook.utils",
+      "langgraph.graph",
+      "langchain_core.messages",
+      "provision_langchain_model",
+      "langgraph.graph.message",
+      "langgraph.checkpoint.sqlite",
+      "concurrent.futures",
+      "typing_extensions",
+      "open_notebook.utils.text_utils",
+      "ContextBuilder",
+      "open_notebook.exceptions",
+      "sqlite3",
+      "classify_error",
+      "LANGGRAPH_CHECKPOINT_FILE",
+      "open_notebook.domain.notebook",
+      "open_notebook.ai.provision",
+      "RunnableConfig",
+      "Prompter",
+      "Annotated",
+      "add_messages",
+      "open_notebook.config",
+      "AIMessage",
+      "Source",
+      "clean_thinking_content",
+      "typing",
+      "END",
+      "asyncio",
+      "open_notebook.utils.context_builder"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/graphs/source.py",
+    "dependencies": [
+      "Asset",
+      "langchain_core.runnables",
+      "graph",
+      "open_notebook.domain.content_settings",
+      "loguru",
+      "extract_content",
+      "open_notebook.domain.transformation",
+      "langgraph.graph",
+      "open_notebook.ai.models",
+      "operator",
+      "Any",
+      "typing_extensions",
+      "Send",
+      "content_core.common",
+      "ContentSettings",
+      "ProcessSourceState",
+      "open_notebook.domain.notebook",
+      "Model",
+      "content_core",
+      "open_notebook.graphs.transformation",
+      "RunnableConfig",
+      "logger",
+      "Annotated",
+      "langgraph.types",
+      "Transformation",
+      "typing",
+      "END"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/CLAUDE.md",
+    "dependencies": [
+      "repo_create",
+      "open_notebook.database.repository"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/async_migrate.py",
+    "dependencies": [
+      "List",
+      "db_connection",
+      ".repository",
+      "typing",
+      "loguru",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/repository.py",
+    "dependencies": [
+      "AsyncSurreal",
+      "Any",
+      "typing",
+      "surrealdb",
+      "asynccontextmanager",
+      "loguru",
+      "os",
+      "datetime",
+      "contextlib",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrate.py",
+    "dependencies": [
+      "AsyncMigrationManager",
+      "asyncio",
+      ".async_migrate"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/8.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/7_down.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/12.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/4.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/6.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/7.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/13_down.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/2.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/1_down.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/2_down.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/9.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/1.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/11_down.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/10.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/9_down.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/14.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/3_down.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/5.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/14_down.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/11.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/5_down.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/13.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/8_down.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/3.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/4_down.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/12_down.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/10_down.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/database/migrations/6_down.surrealql",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/utils/CLAUDE.md",
+    "dependencies": [
+      "generate_embedding",
+      "open_notebook.utils.chunking",
+      "chunk_text",
+      "open_notebook.utils.context_builder",
+      "encrypt_value",
+      "ContextBuilder",
+      "risk",
+      "open_notebook.utils.encryption",
+      "open_notebook.utils.embedding",
+      "time"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/utils/__init__.py",
+    "dependencies": [
+      "generate_embedding",
+      ".embedding",
+      "open_notebook.utils.chunking",
+      "token_count",
+      ".token_utils",
+      ".chunking",
+      "functions",
+      "chunk_text",
+      "open_notebook.utils.encryption",
+      "token_cost",
+      "encrypt_value",
+      ".encryption",
+      ".text_utils",
+      "ContextBuilder",
+      ".version_utils",
+      "open_notebook.utils",
+      "open_notebook.utils.embedding",
+      "open_notebook.utils.context_builder"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/utils/error_classifier.py",
+    "dependencies": [
+      "open_notebook.exceptions",
+      "loguru",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/utils/graph_utils.py",
+    "dependencies": [
+      "langchain_core.runnables",
+      "RunnableConfig",
+      "loguru",
+      "logger",
+      "asyncio"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/utils/version_utils.py",
+    "dependencies": [
+      "httpx",
+      "tomli",
+      "urllib.parse",
+      "importlib.metadata",
+      "parse",
+      "urlparse",
+      "requests",
+      "packaging.version",
+      "PackageNotFoundError"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/utils/README.md",
+    "dependencies": [
+      "ContextConfig",
+      "open_notebook.utils.context_builder",
+      "ContextItem",
+      "ContextBuilder"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/utils/chunking.py",
+    "dependencies": [
+      "List",
+      "enum",
+      "pathlib",
+      "Enum",
+      "typing",
+      "langchain_text_splitters",
+      "Path",
+      "os",
+      "re",
+      "loguru",
+      "logger",
+      "time"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/utils/text_utils.py",
+    "dependencies": [
+      "Tuple",
+      "unicodedata",
+      "typing",
+      "re"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/utils/encryption.py",
+    "dependencies": [
+      "hashlib",
+      "base64",
+      "cryptography.fernet",
+      "Optional",
+      "pathlib",
+      "time.",
+      "typing",
+      "from",
+      "Path",
+      "os",
+      "Fernet",
+      "loguru",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/utils/embedding.py",
+    "dependencies": [
+      "CHUNK_SIZE",
+      "open_notebook.ai.models",
+      "TYPE_CHECKING",
+      "numpy",
+      ".chunking",
+      "to",
+      "ModelManager",
+      "typing",
+      "loguru",
+      "model_manager",
+      "logger",
+      "asyncio"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/utils/context_builder.py",
+    "dependencies": [
+      "__future__",
+      "Note",
+      "token_count",
+      "open_notebook.domain.notebook",
+      ".token_utils",
+      "Any",
+      "dataclasses",
+      "typing",
+      "DatabaseOperationError",
+      "loguru",
+      "open_notebook.exceptions",
+      "dataclass",
+      "annotations",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "open_notebook/utils/token_utils.py",
+    "dependencies": [
+      "open_notebook.config",
+      "loguru",
+      "TIKTOKEN_CACHE_DIR",
+      "os",
+      "tiktoken",
+      "logger"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  }
+]
